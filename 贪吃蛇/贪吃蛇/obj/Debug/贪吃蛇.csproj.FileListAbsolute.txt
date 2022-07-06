@@ -1,0 +1,16 @@
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csproj.AssemblyReference.cache
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csproj.SuggestedBindingRedirects.cache
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\App.g.cs
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇_MarkupCompile.cache
+D:\vs程序\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe.config
+D:\vs程序\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe
+D:\vs程序\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.pdb
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\MainWindow.g.cs
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇_MarkupCompile.lref
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\MainWindow.baml
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.g.resources
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.Properties.Resources.resources
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csproj.GenerateResource.cache
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.exe
+D:\vs程序\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.pdb
